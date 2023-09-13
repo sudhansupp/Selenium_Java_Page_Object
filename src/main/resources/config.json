@@ -1,0 +1,12 @@
+{
+	"dev":{
+		"url":"https://oacdev-idxtag6n5kgt-ia.analytics.ocp.oraclecloud.com/ui/analytics/saw.dll?bieehome&startPage=1",
+		"pageloadtimeout":"90",
+		"implicitwaittime":"30"
+	},
+	"prod":{
+		"url":"https://oacdev-idxtag6n5kgt-ia.analytics.ocp.oraclecloud.com/ui/dv/?pageid=home",
+		"pageloadtimeout":"90",
+		"implicitwaittime":"30"
+	}
+}
